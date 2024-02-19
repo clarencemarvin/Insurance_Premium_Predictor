@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.preprocessing import StandardScaler
 
-data = pd.read_csv("/Users/clarencemarvin/Downloads/Health_insurance.csv")
+data = pd.read_csv("Health_insurance.csv")
 
 print(data.isnull().sum()) #check if there are any null variable
 
