@@ -18,9 +18,11 @@ The project utilizes GridSearchCV to perform hyperparameter tuning on a RandomFo
 ## Results
   1. R² Score: 0.8584517595319375
   2. Predicted Premium Amounts:
+     
      <img width="229" alt="Screenshot 2024-02-19 at 9 41 16 PM" src="https://github.com/clarencemarvin/Insurance_Premium_Predictor/assets/124359735/eba110b5-a9e5-4c6d-897a-9ebd3d2da85f">
      
   3. Correlation Map:
+     
      <img width="192" alt="Screenshot 2024-02-19 at 9 40 47 PM" src="https://github.com/clarencemarvin/Insurance_Premium_Predictor/assets/124359735/674a55ee-d4a2-414b-940c-87e75fcf7d83">
 
 
